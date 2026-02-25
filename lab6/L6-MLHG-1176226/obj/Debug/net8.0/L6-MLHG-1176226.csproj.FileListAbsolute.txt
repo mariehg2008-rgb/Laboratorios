@@ -1,0 +1,14 @@
+C:\Users\Estudiante\source\repos\L6-MLHG-1176226\L6-MLHG-1176226\bin\Debug\net8.0\L6-MLHG-1176226.exe
+C:\Users\Estudiante\source\repos\L6-MLHG-1176226\L6-MLHG-1176226\bin\Debug\net8.0\L6-MLHG-1176226.deps.json
+C:\Users\Estudiante\source\repos\L6-MLHG-1176226\L6-MLHG-1176226\bin\Debug\net8.0\L6-MLHG-1176226.runtimeconfig.json
+C:\Users\Estudiante\source\repos\L6-MLHG-1176226\L6-MLHG-1176226\bin\Debug\net8.0\L6-MLHG-1176226.dll
+C:\Users\Estudiante\source\repos\L6-MLHG-1176226\L6-MLHG-1176226\bin\Debug\net8.0\L6-MLHG-1176226.pdb
+C:\Users\Estudiante\source\repos\L6-MLHG-1176226\L6-MLHG-1176226\obj\Debug\net8.0\L6-MLHG-1176226.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Estudiante\source\repos\L6-MLHG-1176226\L6-MLHG-1176226\obj\Debug\net8.0\L6-MLHG-1176226.AssemblyInfoInputs.cache
+C:\Users\Estudiante\source\repos\L6-MLHG-1176226\L6-MLHG-1176226\obj\Debug\net8.0\L6-MLHG-1176226.AssemblyInfo.cs
+C:\Users\Estudiante\source\repos\L6-MLHG-1176226\L6-MLHG-1176226\obj\Debug\net8.0\L6-MLHG-1176226.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\source\repos\L6-MLHG-1176226\L6-MLHG-1176226\obj\Debug\net8.0\L6-MLHG-1176226.dll
+C:\Users\Estudiante\source\repos\L6-MLHG-1176226\L6-MLHG-1176226\obj\Debug\net8.0\refint\L6-MLHG-1176226.dll
+C:\Users\Estudiante\source\repos\L6-MLHG-1176226\L6-MLHG-1176226\obj\Debug\net8.0\L6-MLHG-1176226.pdb
+C:\Users\Estudiante\source\repos\L6-MLHG-1176226\L6-MLHG-1176226\obj\Debug\net8.0\L6-MLHG-1176226.genruntimeconfig.cache
+C:\Users\Estudiante\source\repos\L6-MLHG-1176226\L6-MLHG-1176226\obj\Debug\net8.0\ref\L6-MLHG-1176226.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Estudiante\\source\\repos\\L7-MLHG-1176226\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95C80EA3-CA16-4C03-B914-2031EE35FDD3}|L7-MLHG-1176226\\L7-MLHG-1176226.csproj|c:\\users\\estudiante\\source\\repos\\l7-mlhg-1176226\\l7-mlhg-1176226\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95C80EA3-CA16-4C03-B914-2031EE35FDD3}|L7-MLHG-1176226\\L7-MLHG-1176226.csproj|solutionrelative:l7-mlhg-1176226\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Estudiante\\source\\repos\\L7-MLHG-1176226\\L7-MLHG-1176226\\Program.cs",
+              "RelativeDocumentMoniker": "L7-MLHG-1176226\\Program.cs",
+              "ToolTip": "C:\\Users\\Estudiante\\source\\repos\\L7-MLHG-1176226\\L7-MLHG-1176226\\Program.cs",
+              "RelativeToolTip": "L7-MLHG-1176226\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T14:53:29.97Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

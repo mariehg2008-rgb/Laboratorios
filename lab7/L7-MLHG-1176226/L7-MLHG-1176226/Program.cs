@@ -11,6 +11,7 @@ class Program
         int num = Convert.ToInt32(Console.ReadLine());
         int conta = 0;
         int suma = 0;
+        int promedio;
         while (num < 0)
         {
             Console.WriteLine("El número tiene que ser mayor a 0, vuelve a ingresar el número");
@@ -21,7 +22,9 @@ class Program
             suma = suma + conta;
             conta++;//El contador va abajo de la operación porque sino comienza con el valor 1 en vez de 0 y da una suma incorrecta.
         }
+        promedio = suma / num;
         Console.WriteLine("La suma de sus números es " + suma);
+        Console.WriteLine("El promedio de la suma es");
         
     }
 }

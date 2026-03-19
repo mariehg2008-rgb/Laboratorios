@@ -1,0 +1,14 @@
+C:\Users\marie\source\repos\L9-MLHG-1176226\L9-MLHG-1176226\bin\Debug\net10.0\L9-MLHG-1176226.exe
+C:\Users\marie\source\repos\L9-MLHG-1176226\L9-MLHG-1176226\bin\Debug\net10.0\L9-MLHG-1176226.deps.json
+C:\Users\marie\source\repos\L9-MLHG-1176226\L9-MLHG-1176226\bin\Debug\net10.0\L9-MLHG-1176226.runtimeconfig.json
+C:\Users\marie\source\repos\L9-MLHG-1176226\L9-MLHG-1176226\bin\Debug\net10.0\L9-MLHG-1176226.dll
+C:\Users\marie\source\repos\L9-MLHG-1176226\L9-MLHG-1176226\bin\Debug\net10.0\L9-MLHG-1176226.pdb
+C:\Users\marie\source\repos\L9-MLHG-1176226\L9-MLHG-1176226\obj\Debug\net10.0\L9-MLHG-1176226.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marie\source\repos\L9-MLHG-1176226\L9-MLHG-1176226\obj\Debug\net10.0\L9-MLHG-1176226.AssemblyInfoInputs.cache
+C:\Users\marie\source\repos\L9-MLHG-1176226\L9-MLHG-1176226\obj\Debug\net10.0\L9-MLHG-1176226.AssemblyInfo.cs
+C:\Users\marie\source\repos\L9-MLHG-1176226\L9-MLHG-1176226\obj\Debug\net10.0\L9-MLHG-1176226.csproj.CoreCompileInputs.cache
+C:\Users\marie\source\repos\L9-MLHG-1176226\L9-MLHG-1176226\obj\Debug\net10.0\L9-MLHG-1176226.dll
+C:\Users\marie\source\repos\L9-MLHG-1176226\L9-MLHG-1176226\obj\Debug\net10.0\refint\L9-MLHG-1176226.dll
+C:\Users\marie\source\repos\L9-MLHG-1176226\L9-MLHG-1176226\obj\Debug\net10.0\L9-MLHG-1176226.pdb
+C:\Users\marie\source\repos\L9-MLHG-1176226\L9-MLHG-1176226\obj\Debug\net10.0\L9-MLHG-1176226.genruntimeconfig.cache
+C:\Users\marie\source\repos\L9-MLHG-1176226\L9-MLHG-1176226\obj\Debug\net10.0\ref\L9-MLHG-1176226.dll

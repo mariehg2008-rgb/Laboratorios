@@ -1,0 +1,14 @@
+C:\Users\marie\source\repos\PROYECTO PARTE B2\PROYECTO PARTE B2\bin\Debug\net10.0\PROYECTO PARTE B2.exe
+C:\Users\marie\source\repos\PROYECTO PARTE B2\PROYECTO PARTE B2\bin\Debug\net10.0\PROYECTO PARTE B2.deps.json
+C:\Users\marie\source\repos\PROYECTO PARTE B2\PROYECTO PARTE B2\bin\Debug\net10.0\PROYECTO PARTE B2.runtimeconfig.json
+C:\Users\marie\source\repos\PROYECTO PARTE B2\PROYECTO PARTE B2\bin\Debug\net10.0\PROYECTO PARTE B2.dll
+C:\Users\marie\source\repos\PROYECTO PARTE B2\PROYECTO PARTE B2\bin\Debug\net10.0\PROYECTO PARTE B2.pdb
+C:\Users\marie\source\repos\PROYECTO PARTE B2\PROYECTO PARTE B2\obj\Debug\net10.0\PROYECTO PARTE B2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marie\source\repos\PROYECTO PARTE B2\PROYECTO PARTE B2\obj\Debug\net10.0\PROYECTO PARTE B2.AssemblyInfoInputs.cache
+C:\Users\marie\source\repos\PROYECTO PARTE B2\PROYECTO PARTE B2\obj\Debug\net10.0\PROYECTO PARTE B2.AssemblyInfo.cs
+C:\Users\marie\source\repos\PROYECTO PARTE B2\PROYECTO PARTE B2\obj\Debug\net10.0\PROYECTO PARTE B2.csproj.CoreCompileInputs.cache
+C:\Users\marie\source\repos\PROYECTO PARTE B2\PROYECTO PARTE B2\obj\Debug\net10.0\PROYECTO PARTE B2.dll
+C:\Users\marie\source\repos\PROYECTO PARTE B2\PROYECTO PARTE B2\obj\Debug\net10.0\refint\PROYECTO PARTE B2.dll
+C:\Users\marie\source\repos\PROYECTO PARTE B2\PROYECTO PARTE B2\obj\Debug\net10.0\PROYECTO PARTE B2.pdb
+C:\Users\marie\source\repos\PROYECTO PARTE B2\PROYECTO PARTE B2\obj\Debug\net10.0\PROYECTO PARTE B2.genruntimeconfig.cache
+C:\Users\marie\source\repos\PROYECTO PARTE B2\PROYECTO PARTE B2\obj\Debug\net10.0\ref\PROYECTO PARTE B2.dll

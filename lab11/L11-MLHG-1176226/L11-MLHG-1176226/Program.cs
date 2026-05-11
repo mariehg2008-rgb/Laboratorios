@@ -16,7 +16,7 @@ class Program
         }
         for (i = 0; i <= (contra.Length - 1); i++)
         {
-            if (contra[i] == contra.ToUpper()[i])
+            if (Char.IsUpper(contra[i]))
             {
                 m++;
                 break;
@@ -29,7 +29,7 @@ class Program
                 }
             }
         }
-        for (i = 0; i <= (contra.Length - 1); i++)
+            for (i = 0; i <= (contra.Length - 1); i++)
         {
             if (contra[i] == '@' || contra[i] == '!' || contra[i] == '¡' || contra[i] == '?' || contra[i] == '¿' || contra[i] == '#' || contra[i] == '&' || contra[i] == '$')
             {
@@ -121,11 +121,10 @@ class Program
             if (n[i] == opcion)
             {
                 conta = i;
-                Console.WriteLine(conta);
                 break;
             }
         }
-        if (conta == 0)
+        if (conta < 0)
         {
             Console.WriteLine("Ese número no existe en el arreglo");
         }

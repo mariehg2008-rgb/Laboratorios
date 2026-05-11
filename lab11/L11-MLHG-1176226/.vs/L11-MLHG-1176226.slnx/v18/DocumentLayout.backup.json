@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\marie\\source\\repos\\L11-MLHG-1176226\\",
+  "WorkspaceRootPath": "C:\\Users\\marie\\OneDrive\\Documentos\\GitHub\\Laboratorios\\lab11\\L11-MLHG-1176226\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3DFAC0A1-0BE6-DB1C-AEA5-E492EAE7FDE2}|L11-MLHG-1176226\\L11-MLHG-1176226.csproj|c:\\users\\marie\\source\\repos\\l11-mlhg-1176226\\l11-mlhg-1176226\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3DFAC0A1-0BE6-DB1C-AEA5-E492EAE7FDE2}|L11-MLHG-1176226\\L11-MLHG-1176226.csproj|c:\\users\\marie\\onedrive\\documentos\\github\\laboratorios\\lab11\\l11-mlhg-1176226\\l11-mlhg-1176226\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3DFAC0A1-0BE6-DB1C-AEA5-E492EAE7FDE2}|L11-MLHG-1176226\\L11-MLHG-1176226.csproj|solutionrelative:l11-mlhg-1176226\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\marie\\source\\repos\\L11-MLHG-1176226\\L11-MLHG-1176226\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\marie\\OneDrive\\Documentos\\GitHub\\Laboratorios\\lab11\\L11-MLHG-1176226\\L11-MLHG-1176226\\Program.cs",
               "RelativeDocumentMoniker": "L11-MLHG-1176226\\Program.cs",
-              "ToolTip": "C:\\Users\\marie\\source\\repos\\L11-MLHG-1176226\\L11-MLHG-1176226\\Program.cs",
+              "ToolTip": "C:\\Users\\marie\\OneDrive\\Documentos\\GitHub\\Laboratorios\\lab11\\L11-MLHG-1176226\\L11-MLHG-1176226\\Program.cs",
               "RelativeToolTip": "L11-MLHG-1176226\\Program.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAAADsAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAUwB4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-15T14:58:02.019Z",
               "EditorCaption": ""

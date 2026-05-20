@@ -1,4 +1,5 @@
 ﻿using System;
+using static System.Runtime.InteropServices.JavaScript.JSType;
 class Program
 {
     static int[,] numeros = new int[4, 4], A = new int[3, 2], B = new int[3, 2], diagonal = new int[5, 5];
@@ -152,4 +153,22 @@ class Program
     }
 }
 
+do
+{
 
+    if (!int.TryParse(dato, out empleados))//VALIDACIÓN DE ENTRADA (AL SER UNA ENTRADA NÚMERICA NO PUEDE INGRESAR LETRAS, NI DEJAR EL ESPACIO EN BLANCO)
+    {
+        Console.WriteLine("Dato incorrecto, por favor, ingrese un número");
+    }
+    else
+    {
+        if (empleados < 1)
+        {
+            Console.WriteLine("La granja tiene que tener por lo menos un (1) empleado");
+        }
+        else
+        {
+            tipoDato = true;
+        }
+    }
+} while (!tipoDato);

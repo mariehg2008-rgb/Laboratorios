@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marie\\source\\repos\\L14-MLHG-1176226\\L14-MLHG-1176226\\L14-MLHG-1176226.csproj",
+      "projectUniqueName": "C:\\Users\\marie\\OneDrive\\Documentos\\GitHub\\Laboratorios\\lab14\\L14-MLHG-1176226\\L14-MLHG-1176226\\L14-MLHG-1176226.csproj",
       "projectName": "L14-MLHG-1176226",
-      "projectPath": "C:\\Users\\marie\\source\\repos\\L14-MLHG-1176226\\L14-MLHG-1176226\\L14-MLHG-1176226.csproj",
+      "projectPath": "C:\\Users\\marie\\OneDrive\\Documentos\\GitHub\\Laboratorios\\lab14\\L14-MLHG-1176226\\L14-MLHG-1176226\\L14-MLHG-1176226.csproj",
       "packagesPath": "C:\\Users\\marie\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\marie\\source\\repos\\L14-MLHG-1176226\\L14-MLHG-1176226\\obj\\",
+      "outputPath": "C:\\Users\\marie\\OneDrive\\Documentos\\GitHub\\Laboratorios\\lab14\\L14-MLHG-1176226\\L14-MLHG-1176226\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

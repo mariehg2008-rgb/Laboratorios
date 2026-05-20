@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\marie\\source\\repos\\L14-MLHG-1176226\\",
+  "WorkspaceRootPath": "C:\\Users\\marie\\OneDrive\\Documentos\\GitHub\\Laboratorios\\lab14\\L14-MLHG-1176226\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F8374DB9-9E2C-4234-9F95-C2A0AD0F896D}|L14-MLHG-1176226\\L14-MLHG-1176226.csproj|c:\\users\\marie\\source\\repos\\l14-mlhg-1176226\\l14-mlhg-1176226\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8374DB9-9E2C-4234-9F95-C2A0AD0F896D}|L14-MLHG-1176226\\L14-MLHG-1176226.csproj|solutionrelative:l14-mlhg-1176226\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0D7017CB-4515-57EC-3B8E-100B2FB01D20}|L14-MLHG-1176226\\L14-MLHG-1176226.csproj|c:\\users\\marie\\onedrive\\documentos\\github\\laboratorios\\lab14\\l14-mlhg-1176226\\l14-mlhg-1176226\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D7017CB-4515-57EC-3B8E-100B2FB01D20}|L14-MLHG-1176226\\L14-MLHG-1176226.csproj|solutionrelative:l14-mlhg-1176226\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\marie\\source\\repos\\L14-MLHG-1176226\\L14-MLHG-1176226\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\marie\\OneDrive\\Documentos\\GitHub\\Laboratorios\\lab14\\L14-MLHG-1176226\\L14-MLHG-1176226\\Program.cs",
               "RelativeDocumentMoniker": "L14-MLHG-1176226\\Program.cs",
-              "ToolTip": "C:\\Users\\marie\\source\\repos\\L14-MLHG-1176226\\L14-MLHG-1176226\\Program.cs",
+              "ToolTip": "C:\\Users\\marie\\OneDrive\\Documentos\\GitHub\\Laboratorios\\lab14\\L14-MLHG-1176226\\L14-MLHG-1176226\\Program.cs",
               "RelativeToolTip": "L14-MLHG-1176226\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAAwAkAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-11T00:51:33.14Z",
               "EditorCaption": ""

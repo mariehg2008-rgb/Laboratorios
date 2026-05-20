@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marie\\source\\repos\\PROYECTO 2 PARTE B\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46828082-3534-AD15-97FA-9DBC31C340F4}|PROYECTO 2 PARTE B\\PROYECTO 2 PARTE B.csproj|c:\\users\\marie\\source\\repos\\proyecto 2 parte b\\proyecto 2 parte b\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46828082-3534-AD15-97FA-9DBC31C340F4}|PROYECTO 2 PARTE B\\PROYECTO 2 PARTE B.csproj|solutionrelative:proyecto 2 parte b\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marie\\source\\repos\\PROYECTO 2 PARTE B\\PROYECTO 2 PARTE B\\Program.cs",
+              "RelativeDocumentMoniker": "PROYECTO 2 PARTE B\\Program.cs",
+              "ToolTip": "C:\\Users\\marie\\source\\repos\\PROYECTO 2 PARTE B\\PROYECTO 2 PARTE B\\Program.cs",
+              "RelativeToolTip": "PROYECTO 2 PARTE B\\Program.cs",
+              "ViewState": "AgIAAI4AAAAAsPEM82QGwA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T01:18:01.184Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\marie\source\repos\PROYECTO 2 PARTE B\PROYECTO 2 PARTE B\bin\Debug\net10.0\PROYECTO 2 PARTE B.exe
+C:\Users\marie\source\repos\PROYECTO 2 PARTE B\PROYECTO 2 PARTE B\bin\Debug\net10.0\PROYECTO 2 PARTE B.deps.json
+C:\Users\marie\source\repos\PROYECTO 2 PARTE B\PROYECTO 2 PARTE B\bin\Debug\net10.0\PROYECTO 2 PARTE B.runtimeconfig.json
+C:\Users\marie\source\repos\PROYECTO 2 PARTE B\PROYECTO 2 PARTE B\bin\Debug\net10.0\PROYECTO 2 PARTE B.dll
+C:\Users\marie\source\repos\PROYECTO 2 PARTE B\PROYECTO 2 PARTE B\bin\Debug\net10.0\PROYECTO 2 PARTE B.pdb
+C:\Users\marie\source\repos\PROYECTO 2 PARTE B\PROYECTO 2 PARTE B\obj\Debug\net10.0\PROYECTO 2 PARTE B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marie\source\repos\PROYECTO 2 PARTE B\PROYECTO 2 PARTE B\obj\Debug\net10.0\PROYECTO 2 PARTE B.AssemblyInfoInputs.cache
+C:\Users\marie\source\repos\PROYECTO 2 PARTE B\PROYECTO 2 PARTE B\obj\Debug\net10.0\PROYECTO 2 PARTE B.AssemblyInfo.cs
+C:\Users\marie\source\repos\PROYECTO 2 PARTE B\PROYECTO 2 PARTE B\obj\Debug\net10.0\PROYECTO 2 PARTE B.csproj.CoreCompileInputs.cache
+C:\Users\marie\source\repos\PROYECTO 2 PARTE B\PROYECTO 2 PARTE B\obj\Debug\net10.0\PROYECTO 2 PARTE B.dll
+C:\Users\marie\source\repos\PROYECTO 2 PARTE B\PROYECTO 2 PARTE B\obj\Debug\net10.0\refint\PROYECTO 2 PARTE B.dll
+C:\Users\marie\source\repos\PROYECTO 2 PARTE B\PROYECTO 2 PARTE B\obj\Debug\net10.0\PROYECTO 2 PARTE B.pdb
+C:\Users\marie\source\repos\PROYECTO 2 PARTE B\PROYECTO 2 PARTE B\obj\Debug\net10.0\PROYECTO 2 PARTE B.genruntimeconfig.cache
+C:\Users\marie\source\repos\PROYECTO 2 PARTE B\PROYECTO 2 PARTE B\obj\Debug\net10.0\ref\PROYECTO 2 PARTE B.dll

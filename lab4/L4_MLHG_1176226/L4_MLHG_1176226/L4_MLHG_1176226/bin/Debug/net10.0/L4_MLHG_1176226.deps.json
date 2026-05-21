@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "L4_MLHG_1176226/1.0.0": {
+        "runtime": {
+          "L4_MLHG_1176226.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "L4_MLHG_1176226/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

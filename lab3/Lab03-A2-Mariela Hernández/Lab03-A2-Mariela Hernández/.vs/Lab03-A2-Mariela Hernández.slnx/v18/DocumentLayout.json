@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Verner Hernandez\\source\\repos\\Lab03-A2-Mariela Hern\u00E1ndez\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C86878A4-B3B8-AE00-7696-615544B631EA}|Lab03-A2-Mariela Hern\u00E1ndez\\Lab03-A2-Mariela Hern\u00E1ndez.csproj|c:\\users\\verner hernandez\\source\\repos\\lab03-a2-mariela hern\u00E1ndez\\lab03-a2-mariela hern\u00E1ndez\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C86878A4-B3B8-AE00-7696-615544B631EA}|Lab03-A2-Mariela Hern\u00E1ndez\\Lab03-A2-Mariela Hern\u00E1ndez.csproj|solutionrelative:lab03-a2-mariela hern\u00E1ndez\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Verner Hernandez\\source\\repos\\Lab03-A2-Mariela Hern\u00E1ndez\\Lab03-A2-Mariela Hern\u00E1ndez\\Program.cs",
+              "RelativeDocumentMoniker": "Lab03-A2-Mariela Hern\u00E1ndez\\Program.cs",
+              "ToolTip": "C:\\Users\\Verner Hernandez\\source\\repos\\Lab03-A2-Mariela Hern\u00E1ndez\\Lab03-A2-Mariela Hern\u00E1ndez\\Program.cs",
+              "RelativeToolTip": "Lab03-A2-Mariela Hern\u00E1ndez\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T01:13:51.387Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
